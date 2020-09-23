@@ -1,0 +1,27 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.jdbcurl",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.seconddatasource.url",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.seconddatasource.driverClassName",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.seconddatasource.username",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.seconddatasource.password",
+      "type": "java.lang.String"
+    },
+    {
+      "name": "spring.seconddatasource.jpa.database-platform",
+      "type": "java.lang.String"
+    }
+  ] }
